@@ -1,0 +1,2 @@
+found the crc8 checksum and data tables here: https://stackoverflow.com/questions/79301981/mx11-cat-thermal-printer-android-sdk
+then added a gui and printing over bluetooth
