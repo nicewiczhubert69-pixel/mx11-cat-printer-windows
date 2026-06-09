@@ -3,7 +3,7 @@ A python script that aims to add support for many of thse animal shaped printers
 Verified fully working models:
 MX11 cat shaped printer
 
-Requirements
+Requirements:
 asyncio
 threading
 customtkinter
@@ -11,9 +11,9 @@ tkinter
 pillow
 bleak 
 
-Usage
+Usage:
 python test.py
 
-Notes
+Notes:
 the search devices button has a slight delay
 
