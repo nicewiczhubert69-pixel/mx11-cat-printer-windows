@@ -3,7 +3,7 @@ A python script that aims to add support for many of thse animal shaped printers
 Verified fully working models:
 MX11 cat shaped printer
 
-Requirements:
+Requirements: (not needed if using .exe build)
 asyncio
 threading
 customtkinter
@@ -13,7 +13,7 @@ bleak
 
 Usage:
 python test.py
-
+run .exe file 
 Notes:
 the search devices button has a slight delay
 
