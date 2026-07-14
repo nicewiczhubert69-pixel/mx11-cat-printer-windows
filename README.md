@@ -14,6 +14,7 @@ bleak
 Usage:
 python test.py
 run .exe file 
+
 Notes:
 the search devices button has a slight delay
 
